@@ -5,7 +5,7 @@ These scripts are useful for developers, learners, and system administrators who
 
 ## 📁 Included Scripts
 
-### 1. **Latest Version Python+Pip Installer To Windows.bat**
+### 1. **Latest Version Python+Pip Installer for Windows.bat**
 
 **Purpose**: Automatically installs the latest Python version with pip and configures system PATH.
 
@@ -21,6 +21,8 @@ These scripts are useful for developers, learners, and system administrators who
 - Right-click → "Run as administrator"
 - Script handles everything automatically
 
+---
+
 ### 2. **Any Version Python Remove From Windows.bat**
 
 **Purpose**: Lightweight Python removal script for quick cleanup.
@@ -31,6 +33,8 @@ These scripts are useful for developers, learners, and system administrators who
 - 🗑️ Common Python directories
 - 🗑️ Windows Store Python
 - 🗑️ PATH variable cleanup
+
+---
 
 ### 3. **Ultimate Python Full Remove.bat**
 
@@ -47,41 +51,36 @@ These scripts are useful for developers, learners, and system administrators who
 - 🗑️ PATH environment variable entries
 - 🗑️ Registry keys and settings
 
+---
+
 ## ⚙️ Requirements
 
 -   Windows 10 or later\
+-   Recommended for x64 bits
 -   Administrator access for all scripts
 
-## 📝 Usage
+---
 
-### ▶️ Install Python
+### ▶️ Auto Install Python
 
 Run as administrator:
 
-    1. Latest Version Python+Pip Installer To Windows.bat
+    Latest Version Python+Pip Installer for Windows.bat
 
 ### ❌ Remove Python
 
 #### Standard Removal (Recommended):
 
-    2. Any Version Python Remove From Windows.bat
+    Any Version Python Remove From Windows.bat
 
 #### Deep Full Removal:
 
-    3. Ultimate Python Full Remove.bat
+    Ultimate Python Full Remove.bat
 
 ## ⚠️ Warning
 
 Removing Python may break applications that depend on it. Use removal
 scripts carefully.
-
----
-
-## 📜 License
-Released under the **MIT License**. See [LICENSE](LICENSE) for details.  
-```
-Copyright (c) 2025 Munna MasterMind
-```
 
 ---
 
@@ -106,4 +105,4 @@ consider buying me a coffee via **Binance Pay**:
 ---
 
 ## 🤝 Contribution  
-Pull requests and issues are welcome if you want to improve documentation or suggest new features.
+Pull requests and issues are welcome if you want to improve or suggest new features.
