@@ -106,8 +106,4 @@ consider buying me a coffee via **Binance Pay**:
 ---
 
 ## 🤝 Contribution  
-Pull requests and issues are welcome if you want to improve documentation or suggest new features.  
-
----
-
-✅ Now you have a **fully automated, thumbnail-supported, and clean-naming YouTube downloader** for Windows!
+Pull requests and issues are welcome if you want to improve documentation or suggest new features.
