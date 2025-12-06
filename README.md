@@ -1,11 +1,14 @@
+<!-- GitAds-Verify: 5Q8ND4WYKRR27EO2KXDA5UNCMP6X7DZ2 -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=munna-soft/Python-Management-Scripts-for-Windows@github)](https://gitads.dev/v1/ad-track?source=munna-soft/Python-Management-Scripts-for-Windows@github)
+
 # 🚀 Python Management Scripts for Windows
 
 A collection of Windows batch (.bat) automation tools for installing and removing Python cleanly and safely.
 These scripts are useful for developers, learners, and system administrators who frequently manage Python versions on Windows.
 
 ## 📁 Included Scripts
-
-### 1. **Latest Version Python+Pip Installer for Windows.bat**
+### 1. **Latest Version Python+Pip Installer for Windows**
 
 **Purpose**: Automatically installs the latest Python version with pip and configures system PATH.
 
@@ -23,7 +26,7 @@ These scripts are useful for developers, learners, and system administrators who
 
 ---
 
-### 2. **Any Version Python Remove From Windows.bat**
+### 2. **Any Version Python Remove From Windows**
 
 **Purpose**: Lightweight Python removal script for quick cleanup.
 
@@ -36,7 +39,7 @@ These scripts are useful for developers, learners, and system administrators who
 
 ---
 
-### 3. **Ultimate Python Full Remove.bat**
+### 3. **Ultimate Python Full Remove**
 
 **Purpose**: Comprehensive Python removal script that cleans all traces of Python from your system.
 
@@ -85,16 +88,22 @@ scripts carefully.
 ---
 
 ## 👨‍💻 Author
-🛠️ Developed and maintained by [Munna MasterMind](https://www.facebook.com/The.Munna)  
-🌍 Open-source and free for all users.  
+🛠️ Developed and maintained by [Munna MasterMind](https://facebook.com/The.Munna) & [Portfolio](https://munna-soft.github.io/Portfolio) 👈
 
+🌍 Open-source and free for all users.  
 ---
+
+## 📜 License
+Released under the **MIT License**. See [LICENSE](LICENSE) for details.  
+```
+Copyright (c) 2025 Munna MasterMind
+```
 
 <div align="center">
 
 ## ☕ Support the Project  
-✨ If you find this project helpful and want to support its development,  
-consider buying me a coffee via **Binance Pay**:  
+✨ If my project help you, please ⭐ star my repos —  
+It motivates me to build **more awesome systems**! & consider buying me a coffee via **Binance Pay**:  
 
 [![Binance Pay](https://img.shields.io/badge/Binance%20Pay-788233021-fcd535?style=for-the-badge&logo=binance&logoColor=white)](https://github.com/Munna-Soft)  
 
@@ -102,7 +111,9 @@ consider buying me a coffee via **Binance Pay**:
 
 </div>
 
----
-
 ## 🤝 Contribution  
-Pull requests and issues are welcome if you want to improve or suggest new features.
+Pull requests and issues are welcome if you want to improve or suggest new features. 
+
+<!-- GitAds-Verify: 5Q8ND4WYKRR27EO2KXDA5UNCMP6X7DZ2 -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=munna-soft/Python-Management-Scripts-for-Windows@github)](https://gitads.dev/v1/ad-track?source=munna-soft/Python-Management-Scripts-for-Windows@github)
